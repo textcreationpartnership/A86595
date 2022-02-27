@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons why Sir Iohn Hotham, trusted by the Parliament, cannot in honour agree to the Treaty of pacification, made by some gentlemen of York-shire, at Rothwell, Sept. 29. 1642.</title>
+            <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86595</idno>
+            <idno type="STC">Wing H2908</idno>
+            <idno type="STC">Thomason E240_30</idno>
+            <idno type="STC">ESTC R2868</idno>
+            <idno type="EEBO-CITATION">99872208</idno>
+            <idno type="PROQUEST">99872208</idno>
+            <idno type="VID">130873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130873)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E240[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons why Sir Iohn Hotham, trusted by the Parliament, cannot in honour agree to the Treaty of pacification, made by some gentlemen of York-shire, at Rothwell, Sept. 29. 1642.</title>
+                  <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Printed 8 8ber [i.e. October]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:130873:1" rendition="simple:additions"/>
+            <head>REASONS WHY Sir Iohn Hotham, TRVSTED BY <hi>THE PARLIAMENT,</hi> Cannot in Honour agree to the Treaty of Pacification, made by ſome Gentlemen of <hi>York-ſhire,</hi> at <hi>Rothwell, Sept.</hi> 29. 1642.</head>
+            <p>
+               <hi>IT is agreed at the Treaty concluded this preſent</hi> 29. <hi>of September</hi> 1642.</p>
+            <p>
+               <hi>Reaſon.</hi>
+            </p>
+            <p>VVHat doe they treat for? Themſelves, the County, or Parliament? If for themſelves<g ref="char:punc">▪</g> their concluſion are but perſonall, and reach no further, and oblige no other part of Yorkſhire. If for the Country, where did the Country authorize them, the Eaſt-Riding being unconſulted with? If for the Parlia<g ref="char:EOLhyphen"/>ment, where is their Order? Nor is it likely th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Parliament will article with Delinquents here, when they refuſe it with the King. And if it be objected, that the Lord <hi>Fairfax</hi> and Maſter <hi>Bellaſsis</hi> be
+<pb n="2" facs="tcp:130873:2"/>Knights of the Shire, and ſo already enabled by the County: I an<g ref="char:EOLhyphen"/>ſwer No: For Maſter <hi>Bellaſsis</hi> is already diſabled by the Parliament, and ſo not in the capacity he was before: and the Lord <hi>Fairfax</hi> arti<g ref="char:EOLhyphen"/>cles, not onely without order of the Parliament, but againſt it, as ſhall appeare; for Knights of Shires are to treat for the County in the Parliament not out of it.</p>
+            <p>Article 1.</p>
+            <p>
+               <hi>That all Forces Aſſembled together in any part of</hi> Yorkſhire, <hi>or Coun<g ref="char:EOLhyphen"/>ty or City of</hi> York, <hi>ſhall bee disbanded: all thoſe under the conduct of Captaine</hi> Hotham, <hi>now in</hi> Doncaſter, <hi>and all other Forces in any o<g ref="char:EOLhyphen"/>ther part of the County under any other Commanders belonging to the Garriſon at</hi> Hull, <hi>ſhall retire to</hi> Hull <hi>with all ſpeed poſſible, and the ſaid Captaine</hi> Hotham <hi>ſhall begin to march from</hi> Doncaſter <hi>towards</hi> Hull, <hi>upon Saturday night.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 1.</p>
+            <p>If all forces be disbanded, how is the County ſecured? it is not a bare Article can defend us from an invaſion of force. And for the Sheriffe, or any Juſtices power, it is ridiculous to be obliged by thoſe lawes, from which the enemie thinks himſelfe at liberty: And it is a ſtrange command they ſhould aſſume over Captaine <hi>Hotham,</hi> that oweth them no ſuch obedience.</p>
+            <p>Article 2.</p>
+            <p>
+               <hi>It is agreed, that no hoſtile, or violent act ſhall hereafter be done by the Garriſon at</hi> Hull, <hi>either directly or indirectly by pretence of any aide or aſsiſtance whatſoever, upon the perſons of any men within the County of</hi> York, <hi>or within the County or City of</hi> York, <hi>upon their goods, either in the aforeſaid, or in the County of</hi> Kingſtone <hi>upon</hi> Hull.</p>
+            <p>
+               <hi>Reaſon</hi> 2.</p>
+            <p>It is agreed: But who agrees to this? Not Sir <hi>Iohn Hotham,</hi> who is (I am ſure) one Card in the packe at this time: and can they oblige him by their agreement? That were to exerciſe a power paramount above the Parliament, and to countermand him in any act he ſhall do in relation to the Parliament orders. And what do they mean by <hi>an hostile act?</hi> Is the bringing Delinquents to juſtice an hoſtile act? If it hath ſome more violence then our lawes doe admit, the Delin<g ref="char:EOLhyphen"/>quents
+<pb n="3" facs="tcp:130873:2"/>may thanke themſelves, who of late have been of that power, as they were not attachable by ſuch acts, being too ſtrong for the ordinary courſe of law; and by terming thoſe hoſtile actions that are done by vertue of Orders and Declarations of Parliament, they doe arraigne the Parliament of illegality and violent proceedings.</p>
+            <p>Article 3.</p>
+            <p>
+               <hi>It is agreed that the Commiſsion of</hi> Array, <hi>and the Orders or Ordinance of Parliament for the</hi> Militia <hi>be wholly ſuſpended in this County, untill ſuch times as ſome courſe be agreed upon for the ordering of the</hi> Militia <hi>by the King and Parliament, and this without diſputing either the le<g ref="char:EOLhyphen"/>gality, or the illegallity of either, but as finding neither of them ſo neceſſa<g ref="char:EOLhyphen"/>ry at this time as for the ſetling them on foot to involve this great Coun<g ref="char:EOLhyphen"/>ty in blood.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 3.</p>
+            <p>That is to put the County in a meere neutrallity; this is to eſtate our ſelves in a civill independency; this is to make every Countie a free Eſtate, or rather a tricke to delude both, by keeping thoſe rights our ſelves, which they fight for. But whether King or Parliament a<g ref="char:EOLhyphen"/>gree or no, legalities are where they were: and by what law, Divine, Civill, or Common, can this County make it ſelfe the depoſitary of our intereſts, and excluſive of others. And againe, why ſhall lega<g ref="char:EOLhyphen"/>lity and illegality be equally regarded by us? ſhall we doe no more for the firſt then for the laſt? ſhall legality finde none to advance it?</p>
+            <p>Article 4.</p>
+            <p>
+               <hi>It is agreed that no Command be impoſed upon this County, but ſuch as are legall and preſidented in good times.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 4.</p>
+            <p>Who ſhall judge of this legality when the Parliament impoſeth Commiſſions? that were to ſet an interpretative Court above a Legiſlative, and to call the concluſions of England to the Barre of Yorkſhire, and to indite a Parliament (the greateſt Councell) before the judgement of ſome few Gentlemen, and halfe of thoſe Delin<g ref="char:EOLhyphen"/>quents too; and this is to invert the courſe of juſtice, and to make offenders ſit Judges.</p>
+            <pb n="4" facs="tcp:130873:3"/>
+            <p>Article 5.</p>
+            <p>
+               <hi>It is agreed that no armed Forces whatſoever ſhall be ſuffered to enter this County in a hoſtile manner, by vertue of any pretence or command whatſoever, and they which attempt to doe it, the whole County ſhall riſe againſt them with force as enemies againſt peace to bee ſup<g ref="char:EOLhyphen"/>preſſed.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 5.</p>
+            <p>If this be, Yorkſhire ſhall be a Sanctuary of all Delinquents, ſo they come not apparently armed; and by this the whole County ſhall be ingaged to reſiſt the Parliament, and ſo become involved in their delinquency: And whereas it is ſaid here in generall, that not <hi>any forces,</hi> as if the Kings as well as the Parliaments ſhould be reſiſted, (<hi>latet dolus:</hi>) We know they thinke to ſave their ſtake at any time with the King: and can we thinke that they that have been ever ſo much for thoſe wayes, will not wheele about for all this when the firſt advantage appeares.</p>
+            <p>Article 6.</p>
+            <p>
+               <hi>It is agreed that if any carriages for houſehold, either of the King or Queen, be to paſſe this County, that to prevent all other armed Forces under pretence of ſuch a conduct to come amongst us, we ſhall take order to ſee them quietly conducted by the Sheriffe of the County, with ſuch a con<g ref="char:EOLhyphen"/>voy as he ſhall appoint and we like, and with no other; and if it ſhall happen the Queens Majeſty ſhall return out of</hi> Holland <hi>through this County, we ſhall humbly beſeech Her Majeſty to forbeare the bringng with Her any multitude of armed Forces, but to believe that we ſhall wait upon Her Majeſty, with ſuch an honorably Convoy as ſhall fit our duty, and Her Honour.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 6.</p>
+            <p>What if in theſe carriages under pretence be concealed ammu<g ref="char:EOLhyphen"/>nition to ſupply the warre betwixt the King and Parliament, ſhall this County be bound to give it ſafe waſtage, and ſo implicitely con<g ref="char:EOLhyphen"/>tribute to the miſchiefes of the Kingdome. And for any Petition to the Queene to diſmiſſe her forces, it is ridiculous: Is it probable that ſhe will be ſo much wanting to her deſigne, as to diſmiſſe them
+<pb n="5" facs="tcp:130873:3"/>upon a bare Petition? and what ſhall a paper Petition doe, when the Countrey is not in any poſture to relieve their Petition if deni<g ref="char:EOLhyphen"/>ed? And if her Majeſty had been ſo eaſily petitioned out of her preparations, what an omiſſion and errour was in the whole King<g ref="char:EOLhyphen"/>dome, that never petitioned her all this while in Holland, and ſo have ſaved the blood and peace of this Kingdome.</p>
+            <p>Article 7.</p>
+            <p>
+               <hi>It is agreed that if any warlike proviſion be deſired, to be paſſed this Country for his Majeſties ſervice, that we ſhall humbly petition His Ma<g ref="char:EOLhyphen"/>jeſty, that he would be pleaſed to convey the ſame ſome other way, being it may be an occaſion of interrupting our peace.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 7.</p>
+            <p>Such a Petition were to promote the ſupplies of warre againſt the Parliament; and what matter is it which way proviſion goe, if it arrive where it is deſigned; ought we not rather to be in a poſture of defence, to be able to ſurprize all ſuch proviſions, it appearing by many Declarations that the King, ſeduced by wicked Councell, makes warre againſt his Subjects.</p>
+            <p>Article 8.</p>
+            <p>
+               <hi>It is agreed, that none ſhall bee arreſted in this County as Delinquents to either party, but by a legall, peaceable, and quiet way, that is, by the legall Officers and their aſsiſtants only, and not by armed men and Souldiers, who may be an occaſion to bring fire amongſt us.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 8.</p>
+            <p>But put the caſe, as now it is, that no power but an armed power can bring Delinquents to juſtice, what ſhall they be left alone, be<g ref="char:EOLhyphen"/>cauſe none but a legall power can doe it; like the Jew of <hi>Tewxbury,</hi> who becauſe he could not be relieved according to his law, died in a Privie. I confeſſe a peacable and quiet proceeding in juſtice were very commendable, were it ſeaſonable; and for ought I know an armed force is as legall now, as any courſe of juſtice: the Parliament have not only declared ſo, but our adverſaries have heigthned and neceſſitated juſtice to take up armes.</p>
+            <pb n="6" facs="tcp:130873:4"/>
+            <p>Article 9.</p>
+            <p n="9">9 <hi>It is agreed that a generall amity be made betwixt all the Gentry and others of this County, of all former unkindneſſes, and differences that have beene bred by theſe unhappy diſtractions, and that we hereafter will be as <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e man to defend one another, according to the Law, againſt all others, leaving all offences to be puniſhed by the Law of the Land, and not by force and violence.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 9.</p>
+            <p>The Earle of <hi>Cumberland</hi> was by Commiſſion Generall of York<g ref="char:EOLhyphen"/>ſhire, and he hath more honour than to ſuffer without publike repa<g ref="char:EOLhyphen"/>ration made to him ſuch a fault being in it ſelfe odious. But done within his government without his privity, a great diminution to his honour: And tis not yet known that the Captaine of the Troop is returned to him for puniſhment, without which indifferent men will not beleeve good faith to be meant. But ſuppoſe thoſe forces re<g ref="char:EOLhyphen"/>turne againe, where is the power that ſhall as ſuddenly ſuppreſſe them as they ſhall ſuddenly offend, they being not to be brought to juſtice but by a power as armed as they: ſo as this County is neceſ<g ref="char:EOLhyphen"/>ſarily engaged to keep forces ſtirring, elſe there can be no ſpeedy repulſe.</p>
+            <p>Article 10.</p>
+            <p>
+               <hi>It is agreed that whoſoever in this County, ſhall be made to appeare either to be the author, contriver or aſsiſter, to the burning of Sir</hi> Edward Rodes <hi>his houſe, or pillaging any other mans houſe in this County, we ſhall all ſee them (if they be able) to make reparation, and however to be brought to Iuſtice.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 10.</p>
+            <p>That were to make the Delinquents, and thoſe that have ſtood to their religion and liberty in one caſe; for oblivion of former un<g ref="char:EOLhyphen"/>kindneſſes I commend their Chriſtianity, if the quarrell were only their owne, but the differences are not perſonall, but in reference to the publike (and now who is my Brother? and what are my Brethren?) yet I have ſo much Logick as to tell how to love the Malignants, and attach them too; love them as Countrey men, and arreſt them as De<g ref="char:EOLhyphen"/>linquents:
+<pb n="7" facs="tcp:130873:4"/>as our Engliſh King that impriſoned his Brother, not as a Biſhop, but as an Earle.</p>
+            <p>Article 11.</p>
+            <p>
+               <hi>It is agreed, that it is intended by disbanding of the Armies, that His Majeſty ſhall have all liberty for the removing of all ſuch Canon and Mu<g ref="char:EOLhyphen"/>nition, as he hath in this County.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 11.</p>
+            <p>This Article ſtill advanceth the warre againſt the Parliament; for why ſhould we agree that any ammunition ſhould be ſent to thoſe forces: that are declared enemies to the ſtate, why ſhould not rather all ammunition be ſurpriſed, as the Parliament hath ordered; this is directly againſt their Orders and Declarations.</p>
+            <p>Article 12.</p>
+            <p>
+               <hi>It is agreed, that all the Armes which doe belong to any of the trained Bands of this Gounty, which hath been taken from them ſince the</hi> 12. <hi>of this inſtant</hi> September <hi>by either party, ſhall be preſently restored, and that Captaine</hi> Hotham <hi>ſhall leave behind him when he returnes into</hi> Hull, <hi>all thoſe braſse Peeces belonging to His Majeſty, which are now in</hi> Donca<g ref="char:EOLhyphen"/>ſter, <hi>except ſuch as he himſelfe brought thither himſelfe from</hi> Hull.</p>
+            <p>
+               <hi>Reaſon</hi> 12.</p>
+            <p>This Article might be allowed, if all the trained Bands were of one conſtitution, but ſince there are many malignants, whoſe armes do better in the hands of others, it were very diſadvantagious to our peace that the malignant party ſhould be armed, and contrary to the proceedings of Parliament; It is no wiſdom therefore to put ſwords again into our enemies hands.</p>
+            <p>Article 13.</p>
+            <p>
+               <hi>It is agreed, that no further Forces ſhall during this difference betwixt King and Parliament, be either raiſed in, or paid by this County, for this warre, other then ſuch as are already levied, and really raiſed, and all ſuch alſo preſently to goe out of this County, without raſing any more.</hi>
+            </p>
+            <pb n="8" facs="tcp:130873:5"/>
+            <p>
+               <hi>Reaſon</hi> 13</p>
+            <p>This is like the former, to prevent all ſurpriſall of their owne per<g ref="char:EOLhyphen"/>ſons, to keep the Countrey naked and unprepared for reſiſtance, and if the raiſed forces paſſe to the King, we tacitly contribute to the ſtrengthning of Delinquents, and advancing the warre againſt the Parliament.</p>
+            <p>Article 14.</p>
+            <p>
+               <hi>It is agreed, that a humble Remonstrance, and Declaration of theſe our Reſolutions we preſently ſend, both to the King and Parliament, accompa<g ref="char:EOLhyphen"/>nied with an humble Petition from us all, that according as wee all have unanimouſly agreed for our particular peace, ſo they would be pleaſed ſo far to commiſerate this diſtracted Kingdome, to doe the ſame for the generall peace of the whole.</hi>
+            </p>
+            <p>
+               <hi>Signed by the Committee for the Treaty.</hi>
+               <list>
+                  <item>Heny Ballaſes.</item>
+                  <item>Sr. William Savill.</item>
+                  <item>Sr. Edward Osburne.</item>
+                  <item>Sr. Iohn Ramſden.</item>
+                  <item>Iohn Hopton.</item>
+                  <item>Francis Nevill.</item>
+                  <item>Sr. Thomas Fairfax.</item>
+                  <item>Sr. Thomas Malmerer.</item>
+                  <item>Sr. William Liſter.</item>
+                  <item>William White.</item>
+                  <item>Thomas Stockdaile.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Reaſon</hi> 14.</p>
+            <p>I conceive though their Petition be never ſo humble, it is incon<g ref="char:EOLhyphen"/>ſiſtent with your Articles for your particular peace you repreſent: Know the lawes of State, and Imperiall ceremonies better, and give not law to thoſe from whom you ought to receive; and if their peace ſhall be like yours, which you deſire it ſhould be, they ſhall ſhake hand with the Delinquents upon even terms; and then what is left to defray the expence the Kingdom hath been put to by their practi<g ref="char:EOLhyphen"/>ces. To conclude, what peace is this you make, as if the Pilot would ſave his own Cabbin when the ſhip were ſinking, as if you would ar<g ref="char:EOLhyphen"/>ticle the County into a naked unpreparedneſſe for any reſiſtance and defence, and your ſelves into ſome ſecurity (the King being too farre off to ſupply) and article the Countrey againſt Sir <hi>Iohn Hotham,</hi> and againſt the Orders of Parliament, and by conſequence of his truſt, and in ſumme, under the notion of treaty and reconciliation, article the reſt of the Gentry into your own Delinquency, and all into a myſterious conſpiracy againſt King and Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
